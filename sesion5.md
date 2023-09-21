@@ -14,7 +14,7 @@
 
 ### Respuesta  
 
-```java copy
+~~~java copy
 
 import java.util.Scanner;
 
@@ -35,7 +35,7 @@ class Main {
   }
 }
 
-```
+~~~
 
 
  2. Pedir al usuario que ingrese una cadena de caracteres y contar la cantidad de caracteres que son números.
