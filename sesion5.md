@@ -14,7 +14,7 @@
 
 ### Respuesta  
 
-``` java copy
+```java copy
     import java.util.Scanner;
 
 class Main {
@@ -41,7 +41,7 @@ class Main {
 
 ### Respuesta  
 
-``` java copy
+```java copy
 
 import java.util.Scanner;
 class HelloWorld {
@@ -73,7 +73,7 @@ class HelloWorld {
 
 ### Respuesta  
 
-``` java copy
+```java copy
 
 import java.util.Scanner;
 
@@ -107,7 +107,7 @@ class Main {
 
 ### Respuesta  
 
-``` java copy
+```java copy
 
 import java.util.Scanner;
 
@@ -144,7 +144,7 @@ class Main {
 
 ### Respuesta  
 
-``` java copy
+```java copy
 
 
 ```
@@ -153,7 +153,7 @@ class Main {
 
 ### Respuesta  
 
-``` java copy
+```java copy
 
 
 ```
