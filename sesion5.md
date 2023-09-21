@@ -14,7 +14,7 @@
 
 ### Respuesta  
 
-~~~ java copy
+``` java copy
     import java.util.Scanner;
 
 class Main {
@@ -34,14 +34,14 @@ class Main {
   }
 }
 
-~~~
+```
 
 
  2. Pedir al usuario que ingrese una cadena de caracteres y contar la cantidad de caracteres que son números.
 
 ### Respuesta  
 
-~~~ java copy
+``` java copy
 
 import java.util.Scanner;
 class HelloWorld {
@@ -66,14 +66,14 @@ class HelloWorld {
     }
 }
 
-~~~
+```
 
 - __Ejercicios - do while__
 1. Escribe un programa en Java que imprima los números del 1 al 100, pero que se detenga si el usuario introduce un número negativo.
 
 ### Respuesta  
 
-~~~ java copy
+``` java copy
 
 import java.util.Scanner;
 
@@ -101,13 +101,13 @@ class Main {
   }
 }
 
-~~~
+```
 
  2. Escribe un programa en Java que pida al usuario un número entero e imprima la tabla de multiplicar de ese número, pero que se detenga si el usuario introduce el número 0.
 
 ### Respuesta  
 
-~~~ java copy
+``` java copy
 
 import java.util.Scanner;
 
@@ -137,26 +137,26 @@ class Main {
      }
   }
   
-~~~
+```
 
 - __Ejercicios - for__
 1. Imprimir los números impares del 1 al 50.
 
 ### Respuesta  
 
-~~~ java copy
+``` java copy
 
 
-~~~
+```
 
  2. Imprimir los números primos del 1 al 100
 
 ### Respuesta  
 
-~~~ java copy
+``` java copy
 
 
-~~~
+```
 
 
 
