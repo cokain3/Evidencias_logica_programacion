@@ -23,7 +23,9 @@ En esta actividad, pondremos en práctica los conceptos aprendidos de programaci
  
 ---
 1. __Programa para calcular la hipotenusa de un triángulo rectángulo:__
+
 ~~~ java copy
+
 import java.util.Scanner;
 
 public class HipotenusaTriangulo {
@@ -42,10 +44,13 @@ public class HipotenusaTriangulo {
         scanner.close();
     }
 }
+
 ~~~
 
 2. __Programa para determinar si un número es par o impar:__
+
 ~~~ java copy
+
 import java.util.Scanner;
 
 public class ParImpar {
@@ -64,11 +69,13 @@ public class ParImpar {
         scanner.close();
     }
 }
+
 ~~~
 
 3. __Programa para calcular el tercer ángulo de un triángulo:__
 
 ~~~java copy
+
 import java.util.Scanner;
 
 public class TercerAnguloTriangulo {
@@ -91,10 +98,13 @@ public class TercerAnguloTriangulo {
         scanner.close();
     }
 }
+
 ~~~
 
 4. __Programa para calcular el promedio de tres números:__
+
 ~~~java copy
+
 import java.util.Scanner;
 
 public class PromedioTresNumeros {
@@ -116,10 +126,13 @@ public class PromedioTresNumeros {
         scanner.close();
     }
 }
+
 ~~~
 
 5. __Programa para calcular la longitud de una cadena de texto:__
+
 ~~~java copy
+
 import java.util.Scanner;
 
 public class LongitudCadena {
@@ -135,9 +148,13 @@ public class LongitudCadena {
         scanner.close();
     }
 }
+
 ~~~
+
 6. __Programa para calcular el área de un triángulo:__
+
 ~~~java copy
+
 import java.util.Scanner;
 
 public class AreaTriangulo {
@@ -156,10 +173,13 @@ public class AreaTriangulo {
         scanner.close();
     }
 }
+
 ~~~
 
 7. __Programa para calcular la raíz cuadrada de un número:__
+
 ~~~java copy
+
 import java.util.Scanner;
 
 public class RaizCuadrada {
@@ -175,10 +195,13 @@ public class RaizCuadrada {
         scanner.close();
     }
 }
+
 ~~~
 
 8. __Programa para calcular el máximo común divisor (MCD) de dos números:__
+
 ~~~java copy
+
 import java.util.Scanner;
 
 publicclass MaximoComunDivisor {
@@ -206,10 +229,13 @@ publicclass MaximoComunDivisor {
         return a;
     }
 }
+
 ~~~
 
 9. __Programa para imprimir una cadena de texto en orden inverso:__
+
 ~~~java copy
+
 import java.util.Scanner;
 
 public class CadenaInversa {
@@ -229,10 +255,13 @@ public class CadenaInversa {
         scanner.close();
     }
 }
+
 ~~~
 
 10.  __Programa para calcular el área de un rectángulo:__
+
 ~~~java copy
+
 import java.util.Scanner;
 
 public class AreaRectangulo {
@@ -251,6 +280,7 @@ public class AreaRectangulo {
         scanner.close();
     }
 }
+
 ~~~
 
 
