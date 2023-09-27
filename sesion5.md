@@ -152,8 +152,6 @@ class Main {
 class Main {
   public static void main(String[] args) {
 
-    
-  
     for (int i = 1; i <= 50; i++) {
       if (i % 2 != 0) {
       System.out.println(i);
@@ -170,6 +168,27 @@ class Main {
 
 ~~~ java
 
+class Main {
+  public static void main(String[] args) {
+
+    for (int num = 2; num <= 100; num++) {
+            boolean esPrimo = true;
+            
+            // Comprobamos si el número es primo
+            for (int i = 2; i < num; i++) {
+                if (numero % i == 0) {
+                    esPrimo = false;
+                    break;
+                }
+            }
+            
+            // Si es primo, lo imprimimos
+            if (esPrimo) {
+                System.out.println(numero);
+            }
+        }
+    }
+}
 
 ~~~
 
