@@ -146,15 +146,29 @@ class Main {
 1. Imprimir los números impares del 1 al 50.
 
 ### Respuesta
-~~~ java copy
 
+~~~ java
+
+class Main {
+  public static void main(String[] args) {
+
+    
+  
+    for (int i = 1; i <= 50; i++) {
+      if (i % 2 != 0) {
+      System.out.println(i);
+      }
+    }
+  }
+}
 
 ~~~
 
  2. Imprimir los números primos del 1 al 100
 
 ### Respuesta
-~~~ java copy
+
+~~~ java
 
 
 ~~~

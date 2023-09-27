@@ -24,8 +24,12 @@ En esta actividad, pondremos en práctica los conceptos aprendidos de programaci
 ---
 1. __Programa para calcular la hipotenusa de un triángulo rectángulo:__
 
+<<<<<<< HEAD
 
 ~~~ java 
+=======
+~~~ java
+>>>>>>> 2e338e48f54586e94a0f38b9ea154ff3be525d55
 
 import java.util.Scanner;
 
@@ -54,7 +58,10 @@ public class HipotenusaTriangulo {
   
 
 ~~~ java
+<<<<<<< HEAD
   
+=======
+>>>>>>> 2e338e48f54586e94a0f38b9ea154ff3be525d55
 
 import java.util.Scanner;
 
@@ -84,6 +91,10 @@ public class ParImpar {
 
 ~~~ java
 
+<<<<<<< HEAD
+=======
+~~~java
+>>>>>>> 2e338e48f54586e94a0f38b9ea154ff3be525d55
 
 import java.util.Scanner;
 
@@ -115,8 +126,12 @@ public class TercerAnguloTriangulo {
 4. __Programa para calcular el promedio de tres números:__
  
 
+<<<<<<< HEAD
 ~~~ java
   
+=======
+~~~java
+>>>>>>> 2e338e48f54586e94a0f38b9ea154ff3be525d55
 
 import java.util.Scanner;
 
@@ -144,11 +159,15 @@ public class PromedioTresNumeros {
 ~~~  
 
 
+<<<<<<< HEAD
 5. __Programa para calcular la longitud de una cadena de texto:__  
 
 
 ~~~ java 
 
+=======
+~~~java
+>>>>>>> 2e338e48f54586e94a0f38b9ea154ff3be525d55
 
 import java.util.Scanner;
 
@@ -170,11 +189,15 @@ public class LongitudCadena {
 ~~~  
 
 
+<<<<<<< HEAD
 6. __Programa para calcular el área de un triángulo:__  
 
 
 ~~~ java  
 
+=======
+~~~java
+>>>>>>> 2e338e48f54586e94a0f38b9ea154ff3be525d55
 
 import java.util.Scanner;
 
@@ -199,11 +222,15 @@ public class AreaTriangulo {
 ~~~  
 
 
+<<<<<<< HEAD
 7. __Programa para calcular la raíz cuadrada de un número:__  
 
 
 ~~~ java 
 
+=======
+~~~java
+>>>>>>> 2e338e48f54586e94a0f38b9ea154ff3be525d55
 
 import java.util.Scanner;
 
@@ -225,10 +252,14 @@ public class RaizCuadrada {
 ~~~  
 
 
+<<<<<<< HEAD
 8. __Programa para calcular el máximo común divisor (MCD) de dos números:__  
 
 
 ~~~ java
+=======
+~~~java
+>>>>>>> 2e338e48f54586e94a0f38b9ea154ff3be525d55
 
 import java.util.Scanner;
 
@@ -262,11 +293,15 @@ publicclass MaximoComunDivisor {
 ~~~   
 
 
+<<<<<<< HEAD
 9. __Programa para imprimir una cadena de texto en orden inverso:__  
 
 
 ~~~ java  
 
+=======
+~~~java
+>>>>>>> 2e338e48f54586e94a0f38b9ea154ff3be525d55
 
 import java.util.Scanner;
 
@@ -297,6 +332,10 @@ public class CadenaInversa {
 
 ~~~ java
 
+<<<<<<< HEAD
+=======
+~~~java
+>>>>>>> 2e338e48f54586e94a0f38b9ea154ff3be525d55
 
 import java.util.Scanner;
 
