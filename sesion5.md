@@ -13,7 +13,11 @@
 1. Pedir al usuario que ingrese un número y mostrar su tabla de multiplicar hasta el número 10.
 
 ### Respuesta
-~~~ java copy
+
+
+~~~ java
+
+
     import java.util.Scanner;
 
 class Main {
@@ -39,7 +43,8 @@ class Main {
  2. Pedir al usuario que ingrese una cadena de caracteres y contar la cantidad de caracteres que son números.
 
 ### Respuesta
-~~~ java copy
+
+~~~ java
 
 import java.util.Scanner;
 class HelloWorld {
@@ -70,7 +75,8 @@ class HelloWorld {
 1. Escribe un programa en Java que imprima los números del 1 al 100, pero que se detenga si el usuario introduce un número negativo.
 
 ### Respuesta
-~~~ java copy
+
+~~~ java
 
 import java.util.Scanner;
 
@@ -103,7 +109,8 @@ class Main {
  2. Escribe un programa en Java que pida al usuario un número entero e imprima la tabla de multiplicar de ese número, pero que se detenga si el usuario introduce el número 0.
 
 ### Respuesta
-~~~ java copy
+
+~~~ java
 
 import java.util.Scanner;
 

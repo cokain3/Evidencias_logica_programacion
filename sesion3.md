@@ -9,9 +9,10 @@
 # Actividad 3: Ejercicios de operaciones básicas en Java.
 
 1. __Suma y multiplicación:__ Escribe un programa que solicite al usuario dos números enteros y luego imprima la suma y multiplicación de esos números.
+
 ### Respuesta
 
-~~~java copy
+~~~java
 import java.util.Scanner;
 
 class Main {
@@ -36,7 +37,7 @@ class Main {
 
 ### Respuesta
 
-~~~java copy
+~~~java
 import java.util.Scanner;
 
 class Main {
@@ -62,7 +63,7 @@ class Main {
 
 ### Respuesta
 
-~~~java copy
+~~~java
 import java.util.Scanner;
 
 class Main {
@@ -89,7 +90,7 @@ class Main {
 
 ### Respuesta
 
-~~~java copy
+~~~java
 import java.util.Scanner;
 
 class Main {
@@ -116,7 +117,7 @@ class Main {
 
 ### Respuesta
 
-~~~java copy
+~~~java
 
 public class Mavenproject1 {
 
@@ -136,7 +137,7 @@ public class Mavenproject1 {
 
 ### Respuesta
 
-~~~java copy
+~~~java
 
 public class Eje8 {
 
@@ -154,7 +155,7 @@ public class Eje8 {
 
 ### Respuesta
 
-~~~java copy
+~~~java
 
 import java.util.Scanner;
 
@@ -205,7 +206,7 @@ class Main {
 
 ### Respuesta
 
-~~~java copy
+~~~java
 
 import java.util.Scanner;
 
