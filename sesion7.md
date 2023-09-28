@@ -309,3 +309,12 @@ Scanner entrada = new Scanner(System.in);
 
 ~~~
 
+### Respuesta
+
+__Ejemplos arraylist__
+
+~~~ java
+
+
+
+~~~
