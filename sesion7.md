@@ -277,7 +277,7 @@ Scanner entrada = new Scanner(System.in);
       System.out.printf(" | " + numero[c]);
     }
     System.out.println(" | ");
-    //rotar de posicion, se crea ux como funcion de array para cambiar los valores de posicion de 0 a 7 empezando desde la posicion 7 mientras sea mayor a 0 y en decremento
+    //rotar de posicion, se crea aux como funcion de array para cambiar los valores de posicion de 0 a 7 empezando desde la posicion 7 mientras sea mayor a 0 y en decremento
     int aux = numero[7];
     for (c=7;c>0;c--)
       {
